@@ -12,5 +12,5 @@ Trong bài này, chúng tôi xây dựng chương trình **mô phỏng** bằng 
 ### 3. Cách chạy
 1. Clone repo:
    ```bash
-   git clone https://github.com/ten-nhom/ten-du-an.git
-   cd ten-du-an
+   git clone https://github.com/quanghuy5555/bai-tap-lon-an-toan-bao-mat-thong-tin.git
+   cd bai-tap-lon-an-toan-bao-mat-thong-tin
